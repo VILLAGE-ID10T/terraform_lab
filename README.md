@@ -1,6 +1,9 @@
 # terraform_lab
 Terraform Lab
 
+# Code Examples
+https://github.com/kevholditch/terraform-course-examples
+
 # Client Installs
 
 NIX:
